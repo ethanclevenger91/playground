@@ -1,0 +1,18 @@
+/*
+Theme Name: Wordcamp Kansas City 2016
+ */
+ @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+ body {
+   font-family: 'Poiret One';
+ }
+
+ h1 {
+   font-size: 80px;
+ }
+
+ .container {
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }

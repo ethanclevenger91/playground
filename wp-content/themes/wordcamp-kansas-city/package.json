@@ -1,0 +1,24 @@
+{
+  "name": "wordcamp-kansas-city-2016",
+  "version": "3.0.0",
+  "description": "WordPress theme",
+  "license": "MIT",
+  "author": {
+    "name": "Ethan Clevenger",
+    "email": "ethan.c.clevenger@gmail.com",
+    "url": "http://ethanclevenger.com"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-sass": "^2.3.1"
+  },
+  "browser": {
+    "bootstrap": "./node_modules/bootstrap-sass/assets/javascripts/bootstrap.js"
+  }
+}
